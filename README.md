@@ -6,9 +6,10 @@
 
 ### Esercizio 1 - Espressioni Regolari
 
-*	Andare al seguente link  [http://regex101.com](http://regex101.com/)
-*	Copiare e incollare il sorgente HTML che trovate al seguente 
-[link](http://www.pirrotta.it/pycon/esercizio2.html)
+*	Copiare il sorgente HTML della seguente pagina 
+[link](http://www.pirrotta.it/pycon/esercizio1.html)
+*	E incollarlo nella textarea della pagina al seguente link  [http://regex101.com](http://regex101.com/)
+
 
 ### Esercizio 2 - XPATH
 * Andare al seguente [link](http://www.online-toolz.com/tools/xpath-editor.php) 
